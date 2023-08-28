@@ -3,6 +3,7 @@ package Exception;
 public class Class {
 	public static void main(String[] args) {
 		System.out.println("WELCOME");
+		System.out.println("CONGRAGULATIONS");
 		int a =10;
 		int b=0;
 		try {                 //block
